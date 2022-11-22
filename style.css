@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding-left: 0;
+}
+
+body{
+    background-color: lightgrey;
+}
+
+img {
+    width: 100px;
+}
+
+#mainMenu{
+    display: none;
+    margin: 0px;
+}
+
+li{
+    list-style: none;
+    width: 200px;
+    height: 30px;
+    padding-left: 10px;
+    padding-top: 15px;
+}
+
+#Home{
+background-color: lightgrey;
+}
+.grey-background{
+    background-color:  lightgrey;
+}
+
+#Red{
+    background-color: red;
+}
+.red-background{
+    background-color: red;
+}
+
+#Green{
+ background-color: green;
+}
+.green-background{
+    background-color: green;
+}
+
+#Purple{
+    background-color: purple;
+}
+.purple-background{
+    background-color: purple;
+}
+
+#Orange{
+    background: orange;
+}
+.orange-background{
+    background-color: orange;
+}
